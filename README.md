@@ -8,7 +8,7 @@ This software demonstrates a classic "Hello World" implementation with personali
 
 My purpose for creating this software is to establish a solid foundation in JavaScript programming and prepare for developing a comprehensive Habit Tracker & Goal Setter mobile application. This project allows me to practice fundamental programming concepts while setting up the development environment needed for future mobile app projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/09FTZZ1gK8M)
 
 ## Running the Program
 1. Open terminal/command prompt
